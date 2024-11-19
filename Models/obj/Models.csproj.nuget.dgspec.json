@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\WebApi\\Models\\Models.csproj": {}
+    "D:\\.net\\WebApiApplication\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\.net\\WebApi\\Models\\Models.csproj": {
+    "D:\\.net\\WebApiApplication\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\WebApi\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\.net\\WebApiApplication\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\.net\\WebApi\\Models\\Models.csproj",
+        "projectPath": "D:\\.net\\WebApiApplication\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\WebApi\\Models\\obj\\",
+        "outputPath": "D:\\.net\\WebApiApplication\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

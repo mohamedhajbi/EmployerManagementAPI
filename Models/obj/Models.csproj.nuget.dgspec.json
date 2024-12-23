@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\WebApi\\Models\\Models.csproj": {}
+    "D:\\.net\\last\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\.net\\WebApi\\Models\\Models.csproj": {
+    "D:\\.net\\last\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\WebApi\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\.net\\last\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\.net\\WebApi\\Models\\Models.csproj",
+        "projectPath": "D:\\.net\\last\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\WebApi\\Models\\obj\\",
+        "outputPath": "D:\\.net\\last\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
